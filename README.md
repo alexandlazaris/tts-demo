@@ -9,6 +9,7 @@ Exploring what I can do with pocket-tts.
     - [Halo 1 - Cortana](#halo-1---cortana)
     - [Star Wars Episode III, Revenge of the Sith - Chancellor Palpatine](#star-wars-episode-iii-revenge-of-the-sith---chancellor-palpatine)
     - [Metal Gear Solid 3: Snake Eater - Colonel Volgin](#metal-gear-solid-3-snake-eater---colonel-volgin)
+    - [Sampling my own voice](#sampling-my-own-voice)
   - [Reference](#reference)
 
 ## Mac failure
@@ -107,9 +108,13 @@ At this point, I searched up the exact quote and confirmed I had a *few* changes
 
 ["This is war, Major. A Cold War, fought with information and espionage."](./war-attempt-6.wav) -> BINGO!
 
-Pretty pleased with that final effort. Who knew my hours spent playing 20 years ago would return the favour when needed a final quote.
+Pretty pleased with that final effort. Who knew my hours spent playing 20 years ago would return the favour when I needed a final quote.
 
 ![salute](./snake-salute.gif)
+
+### Sampling my own voice
+
+I haven't yet tried this feature out, as I haven't used the hf platform myself and need to brush up on where my voice would be trained on. This is a TODO item. 
 
 ## Reference
 
